@@ -7,6 +7,6 @@ int main(int argc, char const *argv[]) {
   int a = 10, b = 5;
 
   printf("%d + %d = %d \n",a, b, somme(a, b) ); // ajout d'un commentaire <== ICI 
-  printf("%d - %d = %d \n",a, b, soustraction(a, b));
+  printf("%d - %d = %d \n",a, b, soustraction(a, b)); // komo
   return 0;
 }
